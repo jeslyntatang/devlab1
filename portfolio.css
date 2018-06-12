@@ -1,0 +1,46 @@
+body {
+    text-align:center;
+}
+    
+::selection {
+    background:#88BEF7;
+}
+
+.row{  
+    display:flex;
+    flex-wrap:wrap;
+    background-color:black;
+    color:white;
+    font-size:20px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.footer1 p{
+    margin-left:25px;
+    margin:0 auto;
+    color:#99C7F7;
+}
+
+.footer1 {
+    padding:20px;
+    margin-top:-8px;
+}
+
+
+.footer2 p {
+    margin-left:20px;
+    margin:0 auto;
+    font-family: 'Lora', serif;
+    font-size:15px;
+    margin-top:5px;
+}
+
+.footer2 {
+    height:50px;
+    background-color:gray;
+}
+
+.portfolio img {
+    height:150px;
+    width:250px;
+}
