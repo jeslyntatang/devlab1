@@ -49,8 +49,8 @@ body {
     margin-bottom:5px;
     width:100%;
     height:450px;
-    text-shadow: 3px 3px 2px #002FFF;
-    background-image:url(sf.jpg);
+    text-shadow: 3px 3px 2px #ED4D34;
+    background-image:url("https://cdn.theatlantic.com/assets/media/img/mt/2017/11/Salesforce_Tower_Skyline/lead_720_405.jpg?mod=1533691912");
     background-repeat: no-repeat;
     background-size:100% 450px;
 }
@@ -68,15 +68,15 @@ body {
     font-family: 'Lora', serif;
     font-size:75px;
     z-index:9;
+    color:#F0B556;
 }
-
 
 .footer2 p {
     margin-left:20px;
     margin:0 auto;
     font-family: 'Lora', serif;
     font-size:15px;
-    margin-top:10px;
+    margin-top:25px;
 }
 
 .footer2 {
