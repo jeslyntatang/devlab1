@@ -93,8 +93,12 @@ body {
     margin-bottom:-20px;
 }
 
+
 .bio p {
     font-size:15px;
+    text-align:center;
+    margin-left:35px;
+    margin-right:35px;
 }
 
 .bio h1 {
